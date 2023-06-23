@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805855262544",
+    "project_id": "first-cry-e1222",
+    "storage_bucket": "first-cry-e1222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805855262544:android:6ffee1d31bff7974121e55",
+        "android_client_info": {
+          "package_name": "com.example.first_cry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArf7cDnjOZw2s8WCnNm0V0JqDkDQd-YsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
